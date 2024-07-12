@@ -1,0 +1,73 @@
+
+.footer{
+    padding: 40px 0;
+    background-color: #111111;
+    color: white;
+}
+
+.footer .foody a{
+    color: #59b918;
+    font-size: 40px;
+}
+
+.footer .foody span{
+    color:#ee4f2f;
+}
+
+.footer .foody p{
+    color: #999999;
+    padding: 10px 0;
+}
+
+.footer  .Address{
+    color: #555555!important;
+}
+.footer .Address h3{
+    color: white;
+    padding: 10px 0;
+}
+
+.footer .live{
+    padding: 5px 0;
+}
+.footer .live span{
+    font-size: 16px;
+}
+a{
+    text-decoration: none!important;
+}
+
+
+ul ,ol{
+    list-style: none;
+}
+.footer .Quick ul li a{
+    color: #555555;
+    font-size: 18px;
+}
+.footer .Quick ul li{
+    padding: 5px 0;
+}
+
+.footer .new .isp{
+    padding: 15px 25px;
+    background-color: transparent;
+    border: 1px solid white;
+    position: relative!important;
+}
+
+.footer .new .sign{
+    position: absolute;
+    right: 160px;
+    margin: 7px 0;
+    background-color: #59b918;
+    color: white;
+    padding: 8px;
+    border: none;
+}
+
+.footer .new p{
+    color: #555555;
+    padding: 10px 0;
+    font-size: 17px;
+}
