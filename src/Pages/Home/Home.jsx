@@ -15,12 +15,6 @@ import { MdEmail } from "react-icons/md";
 import { IoIosArrowForward } from "react-icons/io";
 
 
-
-
-
-
-
-
 const Home = () => {
   const initialProducts = [
     {

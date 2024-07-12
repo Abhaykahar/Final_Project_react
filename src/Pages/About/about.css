@@ -1,0 +1,10 @@
+.silder-img{
+    background-image: url('/public/img/carousel-1.jpg');
+    padding: 150px;
+    background-size: cover;
+}
+
+.silder-img h2{
+    font-size: 60px;
+    font-weight: 600;
+}
