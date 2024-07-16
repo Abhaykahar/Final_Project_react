@@ -1,0 +1,60 @@
+.justo{
+    padding: 100px 0;
+}
+
+body{
+    background-color: white!important;
+    overflow-x: hidden!important;
+}
+.over-flow{
+    overflow: hidden;
+}
+
+.justo p{
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 0;
+    color: #555555;
+}
+
+.justo h2{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.card{
+    border: none;
+    background-color: #3CB815;
+    color: white;
+    padding: 20px 10px;
+}
+
+.stree{
+    padding: 10px 0;
+    margin-left: 50px;
+}
+
+.stree h5{
+    font-size: 20px;
+}
+
+.stree span{
+
+    font-size: 19px!important;
+}
+.stree .ic{
+    transition: all 0.5s;
+}
+
+.stree .ic:hover{
+    background-color: white;
+    color: black;
+}
+
+.form-content p{
+    font-size: 17px!important;
+}
+
+.form-content p span{
+    color: #3CB815;
+}

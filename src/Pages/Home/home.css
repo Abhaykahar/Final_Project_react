@@ -281,3 +281,8 @@ color: green!important;
     border-bottom: 1px solid black;
     font-weight: 700;
 }
+
+body{
+    overflow-x: hidden!important;
+
+}
