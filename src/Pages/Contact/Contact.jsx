@@ -42,7 +42,7 @@ const Contact = () => {
           <p align="center">Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum <br /> diam justo sed rebum vero dolor duo.</p>
           <div className="row mt-5 align-items-center">
             <div className="col-lg-5 col-md-6 col-12 mb-3 ">
-              <div className="card">
+              <div className="card card-content">
                
               <div className="mb-3 stree">
                <h5>Call Us</h5>

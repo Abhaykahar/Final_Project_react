@@ -22,9 +22,9 @@ body{
     font-weight: 700;
 }
 
-.card{
+ .card-content{
     border: none;
-    background-color: #3CB815;
+    background-color: #3CB815!important;
     color: white;
     padding: 20px 10px;
 }
